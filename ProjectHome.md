@@ -1,0 +1,1 @@
+A duplex RPC implemention( static, pure C++ )
